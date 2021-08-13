@@ -1,4 +1,4 @@
-# 2 Tier Deployment with Virtual Machine Scale Set SQL Database & Bastion
+# 2 Tier Deployment with WebServers and MYSQL DB
 This plan is used to build 2-tier infrastructure in two different avalibility zones and application load balancer.
 
 Tier 1 - Web Servers
